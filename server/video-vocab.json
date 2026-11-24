@@ -1,0 +1,928 @@
+{
+ "hangul-vowels": {
+  "title": "Hangul: unli harflar",
+  "sub": "한글 모음",
+  "items": [
+   {
+    "ko": "ㅏ",
+    "rom": "a",
+    "uz": "«a» – ochiq «a» tovushi",
+    "ex": {
+     "ko": "아기",
+     "rom": "agi",
+     "uz": "chaqaloq"
+    }
+   },
+   {
+    "ko": "ㅓ",
+    "rom": "eo",
+    "uz": "«o» va «u» oralig'idagi ochiq «o»",
+    "ex": {
+     "ko": "어머니",
+     "rom": "eomeoni",
+     "uz": "ona"
+    }
+   },
+   {
+    "ko": "ㅗ",
+    "rom": "o",
+    "uz": "«o» – lablar yumaloq",
+    "ex": {
+     "ko": "오리",
+     "rom": "ori",
+     "uz": "o'rdak"
+    }
+   },
+   {
+    "ko": "ㅜ",
+    "rom": "u",
+    "uz": "«u» – lablar oldinga cho'ziladi",
+    "ex": {
+     "ko": "우산",
+     "rom": "usan",
+     "uz": "soyabon"
+    }
+   },
+   {
+    "ko": "ㅡ",
+    "rom": "eu",
+    "uz": "lablarni cho'zmasdan aytiladigan «i»/«ы»",
+    "ex": {
+     "ko": "그림",
+     "rom": "geurim",
+     "uz": "rasm"
+    }
+   },
+   {
+    "ko": "ㅣ",
+    "rom": "i",
+    "uz": "«i» – o'zbekchadagi kabi",
+    "ex": {
+     "ko": "이",
+     "rom": "i",
+     "uz": "tish"
+    }
+   },
+   {
+    "ko": "ㅐ",
+    "rom": "ae",
+    "uz": "«e» – ochiq «ye»siz «e»",
+    "ex": {
+     "ko": "개",
+     "rom": "gae",
+     "uz": "it"
+    }
+   },
+   {
+    "ko": "ㅔ",
+    "rom": "e",
+    "uz": "«e» – ㅐ ga juda yaqin",
+    "ex": {
+     "ko": "네",
+     "rom": "ne",
+     "uz": "ha"
+    }
+   },
+   {
+    "ko": "ㅑ",
+    "rom": "ya",
+    "uz": "«ya» (ㅣ + ㅏ)",
+    "ex": {
+     "ko": "야구",
+     "rom": "yagu",
+     "uz": "beysbol"
+    }
+   },
+   {
+    "ko": "ㅕ",
+    "rom": "yeo",
+    "uz": "«yo/yeo» (ㅣ + ㅓ)",
+    "ex": {
+     "ko": "여우",
+     "rom": "yeou",
+     "uz": "tulki"
+    }
+   },
+   {
+    "ko": "ㅛ",
+    "rom": "yo",
+    "uz": "«yo» (ㅣ + ㅗ)",
+    "ex": {
+     "ko": "요리",
+     "rom": "yori",
+     "uz": "ovqat tayyorlash"
+    }
+   },
+   {
+    "ko": "ㅠ",
+    "rom": "yu",
+    "uz": "«yu» (ㅣ + ㅜ)",
+    "ex": {
+     "ko": "유리",
+     "rom": "yuri",
+     "uz": "oyna"
+    }
+   }
+  ]
+ },
+ "hangul-consonants": {
+  "title": "Hangul: undosh harflar",
+  "sub": "한글 자음",
+  "items": [
+   {
+    "ko": "ㄱ",
+    "rom": "g / k",
+    "uz": "«g», so'z oxirida «k»",
+    "ex": {
+     "ko": "가방",
+     "rom": "gabang",
+     "uz": "sumka"
+    }
+   },
+   {
+    "ko": "ㄴ",
+    "rom": "n",
+    "uz": "«n»",
+    "ex": {
+     "ko": "나무",
+     "rom": "namu",
+     "uz": "daraxt"
+    }
+   },
+   {
+    "ko": "ㄷ",
+    "rom": "d / t",
+    "uz": "«d», so'z oxirida «t»",
+    "ex": {
+     "ko": "다리",
+     "rom": "dari",
+     "uz": "ko'prik; oyoq"
+    }
+   },
+   {
+    "ko": "ㄹ",
+    "rom": "r / l",
+    "uz": "«r» va «l» orasidagi tovush",
+    "ex": {
+     "ko": "라면",
+     "rom": "ramyeon",
+     "uz": "lagmon (ramen)"
+    }
+   },
+   {
+    "ko": "ㅁ",
+    "rom": "m",
+    "uz": "«m»",
+    "ex": {
+     "ko": "물",
+     "rom": "mul",
+     "uz": "suv"
+    }
+   },
+   {
+    "ko": "ㅂ",
+    "rom": "b / p",
+    "uz": "«b», so'z oxirida «p»",
+    "ex": {
+     "ko": "바나나",
+     "rom": "banana",
+     "uz": "banan"
+    }
+   },
+   {
+    "ko": "ㅅ",
+    "rom": "s",
+    "uz": "«s»",
+    "ex": {
+     "ko": "사과",
+     "rom": "sagwa",
+     "uz": "olma"
+    }
+   },
+   {
+    "ko": "ㅇ",
+    "rom": "– / ng",
+    "uz": "boshida jim; oxirida «ng»",
+    "ex": {
+     "ko": "아이",
+     "rom": "ai",
+     "uz": "bola"
+    }
+   },
+   {
+    "ko": "ㅈ",
+    "rom": "j",
+    "uz": "«j» (jo'ja)",
+    "ex": {
+     "ko": "지하철",
+     "rom": "jihacheol",
+     "uz": "metro"
+    }
+   },
+   {
+    "ko": "ㅊ",
+    "rom": "ch",
+    "uz": "kuchli «ch»",
+    "ex": {
+     "ko": "차",
+     "rom": "cha",
+     "uz": "choy; mashina"
+    }
+   },
+   {
+    "ko": "ㅋ",
+    "rom": "k",
+    "uz": "kuchli «k»",
+    "ex": {
+     "ko": "커피",
+     "rom": "keopi",
+     "uz": "qahva"
+    }
+   },
+   {
+    "ko": "ㅌ",
+    "rom": "t",
+    "uz": "kuchli «t»",
+    "ex": {
+     "ko": "토마토",
+     "rom": "tomato",
+     "uz": "pomidor"
+    }
+   },
+   {
+    "ko": "ㅍ",
+    "rom": "p",
+    "uz": "kuchli «p»",
+    "ex": {
+     "ko": "포도",
+     "rom": "podo",
+     "uz": "uzum"
+    }
+   },
+   {
+    "ko": "ㅎ",
+    "rom": "h",
+    "uz": "«h»",
+    "ex": {
+     "ko": "하늘",
+     "rom": "haneul",
+     "uz": "osmon"
+    }
+   }
+  ]
+ },
+ "greetings": {
+  "title": "Salomlashish va tanishuv",
+  "sub": "인사와 소개",
+  "items": [
+   {
+    "ko": "안녕하세요",
+    "rom": "annyeonghaseyo",
+    "uz": "Salom / Assalomu alaykum",
+    "ex": {
+     "ko": "안녕하세요, 선생님!",
+     "rom": "annyeonghaseyo, seonsaengnim",
+     "uz": "Salom, o'qituvchi!"
+    }
+   },
+   {
+    "ko": "안녕히 가세요",
+    "rom": "annyeonghi gaseyo",
+    "uz": "Xayr (ketayotganga aytiladi)",
+    "ex": {
+     "ko": "안녕히 가세요, 민수 씨.",
+     "rom": "annyeonghi gaseyo, minsu ssi",
+     "uz": "Xayr, Minsu."
+    }
+   },
+   {
+    "ko": "안녕히 계세요",
+    "rom": "annyeonghi gyeseyo",
+    "uz": "Xayr (qolayotganga aytiladi)",
+    "ex": {
+     "ko": "안녕히 계세요, 선생님.",
+     "rom": "annyeonghi gyeseyo, seonsaengnim",
+     "uz": "Xayr, o'qituvchi."
+    }
+   },
+   {
+    "ko": "감사합니다",
+    "rom": "gamsahamnida",
+    "uz": "Rahmat",
+    "ex": {
+     "ko": "도와주셔서 감사합니다.",
+     "rom": "dowajusyeoseo gamsahamnida",
+     "uz": "Yordamingiz uchun rahmat."
+    }
+   },
+   {
+    "ko": "죄송합니다",
+    "rom": "joesonghamnida",
+    "uz": "Kechirasiz (rasmiy)",
+    "ex": {
+     "ko": "늦어서 죄송합니다.",
+     "rom": "neujeoseo joesonghamnida",
+     "uz": "Kechikkanim uchun uzr."
+    }
+   },
+   {
+    "ko": "괜찮아요",
+    "rom": "gwaenchanayo",
+    "uz": "Hechqisi yo'q / yaxshi",
+    "ex": {
+     "ko": "저는 괜찮아요.",
+     "rom": "jeoneun gwaenchanayo",
+     "uz": "Men yaxshiman."
+    }
+   },
+   {
+    "ko": "네",
+    "rom": "ne",
+    "uz": "Ha",
+    "ex": {
+     "ko": "네, 맞아요.",
+     "rom": "ne, majayo",
+     "uz": "Ha, to'g'ri."
+    }
+   },
+   {
+    "ko": "아니요",
+    "rom": "aniyo",
+    "uz": "Yo'q",
+    "ex": {
+     "ko": "아니요, 괜찮아요.",
+     "rom": "aniyo, gwaenchanayo",
+     "uz": "Yo'q, rahmat."
+    }
+   },
+   {
+    "ko": "처음 뵙겠습니다",
+    "rom": "cheoeum boepgetseumnida",
+    "uz": "Birinchi marta ko'rishyapmiz",
+    "ex": {
+     "ko": "처음 뵙겠습니다.",
+     "rom": "cheoeum boepgetseumnida",
+     "uz": "Tanishganimdan xursandman (rasmiy)."
+    }
+   },
+   {
+    "ko": "만나서 반갑습니다",
+    "rom": "mannaseo bangapseumnida",
+    "uz": "Tanishganimdan xursandman",
+    "ex": {
+     "ko": "만나서 반갑습니다.",
+     "rom": "mannaseo bangapseumnida",
+     "uz": "Siz bilan tanishganimdan xursandman."
+    }
+   },
+   {
+    "ko": "제 이름은 ~입니다",
+    "rom": "je ireumeun ~imnida",
+    "uz": "Mening ismim ~",
+    "ex": {
+     "ko": "제 이름은 알리입니다.",
+     "rom": "je ireumeun aliimnida",
+     "uz": "Mening ismim Ali."
+    }
+   },
+   {
+    "ko": "저는 ~ 사람입니다",
+    "rom": "jeoneun ~ saramimnida",
+    "uz": "Men ~ danman",
+    "ex": {
+     "ko": "저는 우즈베키스탄 사람입니다.",
+     "rom": "jeoneun ujebekiseutan saramimnida",
+     "uz": "Men o'zbekistonlikman."
+    }
+   },
+   {
+    "ko": "잘 부탁드립니다",
+    "rom": "jal butakdeurimnida",
+    "uz": "Yordamingizni so'rayman",
+    "ex": {
+     "ko": "잘 부탁드립니다.",
+     "rom": "jal butakdeurimnida",
+     "uz": "Iltimos, yaxshi munosabatda bo'laylik."
+    }
+   }
+  ]
+ },
+ "numbers": {
+  "title": "Raqamlar: 일, 이, 삼 va 하나, 둘",
+  "sub": "숫자",
+  "items": [
+   {
+    "ko": "일",
+    "rom": "il",
+    "uz": "1 (xitoycha tizim)",
+    "ex": {
+     "ko": "일 월",
+     "rom": "il wol",
+     "uz": "yanvar"
+    }
+   },
+   {
+    "ko": "이",
+    "rom": "i",
+    "uz": "2",
+    "ex": {
+     "ko": "이 층",
+     "rom": "i cheung",
+     "uz": "2-qavat"
+    }
+   },
+   {
+    "ko": "삼",
+    "rom": "sam",
+    "uz": "3",
+    "ex": {
+     "ko": "삼 분",
+     "rom": "sam bun",
+     "uz": "3 daqiqa"
+    }
+   },
+   {
+    "ko": "사",
+    "rom": "sa",
+    "uz": "4",
+    "ex": {
+     "ko": "사 월",
+     "rom": "sa wol",
+     "uz": "aprel"
+    }
+   },
+   {
+    "ko": "오",
+    "rom": "o",
+    "uz": "5",
+    "ex": {
+     "ko": "오 번",
+     "rom": "o beon",
+     "uz": "5-raqam"
+    }
+   },
+   {
+    "ko": "육",
+    "rom": "yuk",
+    "uz": "6",
+    "ex": {
+     "ko": "육 월",
+     "rom": "yuk wol",
+     "uz": "iyun"
+    }
+   },
+   {
+    "ko": "칠",
+    "rom": "chil",
+    "uz": "7",
+    "ex": {
+     "ko": "칠 일",
+     "rom": "chil il",
+     "uz": "7 kun"
+    }
+   },
+   {
+    "ko": "팔",
+    "rom": "pal",
+    "uz": "8",
+    "ex": {
+     "ko": "팔 층",
+     "rom": "pal cheung",
+     "uz": "8-qavat"
+    }
+   },
+   {
+    "ko": "구",
+    "rom": "gu",
+    "uz": "9",
+    "ex": {
+     "ko": "구 월",
+     "rom": "gu wol",
+     "uz": "sentabr"
+    }
+   },
+   {
+    "ko": "십",
+    "rom": "sip",
+    "uz": "10",
+    "ex": {
+     "ko": "십 분",
+     "rom": "sip bun",
+     "uz": "10 daqiqa"
+    }
+   },
+   {
+    "ko": "하나",
+    "rom": "hana",
+    "uz": "1 (sof koreys tizimi)",
+    "ex": {
+     "ko": "사과 하나",
+     "rom": "sagwa hana",
+     "uz": "bitta olma"
+    }
+   },
+   {
+    "ko": "둘",
+    "rom": "dul",
+    "uz": "2",
+    "ex": {
+     "ko": "커피 두 잔",
+     "rom": "keopi du jan",
+     "uz": "ikki piyola qahva"
+    }
+   },
+   {
+    "ko": "셋",
+    "rom": "set",
+    "uz": "3",
+    "ex": {
+     "ko": "책 세 권",
+     "rom": "chaek se gwon",
+     "uz": "uchta kitob"
+    }
+   },
+   {
+    "ko": "넷",
+    "rom": "net",
+    "uz": "4",
+    "ex": {
+     "ko": "사람 네 명",
+     "rom": "saram ne myeong",
+     "uz": "to'rt kishi"
+    }
+   },
+   {
+    "ko": "다섯",
+    "rom": "daseot",
+    "uz": "5",
+    "ex": {
+     "ko": "다섯 시",
+     "rom": "daseot si",
+     "uz": "soat 5"
+    }
+   },
+   {
+    "ko": "여섯",
+    "rom": "yeoseot",
+    "uz": "6",
+    "ex": {
+     "ko": "여섯 개",
+     "rom": "yeoseot gae",
+     "uz": "6 dona"
+    }
+   },
+   {
+    "ko": "일곱",
+    "rom": "ilgop",
+    "uz": "7",
+    "ex": {
+     "ko": "일곱 살",
+     "rom": "ilgop sal",
+     "uz": "7 yosh"
+    }
+   },
+   {
+    "ko": "여덟",
+    "rom": "yeodeol",
+    "uz": "8",
+    "ex": {
+     "ko": "여덟 시",
+     "rom": "yeodeol si",
+     "uz": "soat 8"
+    }
+   },
+   {
+    "ko": "아홉",
+    "rom": "ahop",
+    "uz": "9",
+    "ex": {
+     "ko": "아홉 개",
+     "rom": "ahop gae",
+     "uz": "9 dona"
+    }
+   },
+   {
+    "ko": "열",
+    "rom": "yeol",
+    "uz": "10",
+    "ex": {
+     "ko": "열 살",
+     "rom": "yeol sal",
+     "uz": "10 yosh"
+    }
+   }
+  ]
+ },
+ "family": {
+  "title": "Oila a'zolari",
+  "sub": "가족",
+  "items": [
+   {
+    "ko": "가족",
+    "rom": "gajok",
+    "uz": "Oila",
+    "ex": {
+     "ko": "우리 가족",
+     "rom": "uri gajok",
+     "uz": "bizning oilamiz"
+    }
+   },
+   {
+    "ko": "아버지",
+    "rom": "abeoji",
+    "uz": "Ota",
+    "ex": {
+     "ko": "아버지는 의사입니다.",
+     "rom": "abeojineun uisaimnida",
+     "uz": "Otam shifokor."
+    }
+   },
+   {
+    "ko": "어머니",
+    "rom": "eomeoni",
+    "uz": "Ona",
+    "ex": {
+     "ko": "어머니는 선생님입니다.",
+     "rom": "eomeonineun seonsaengnimimnida",
+     "uz": "Onam o'qituvchi."
+    }
+   },
+   {
+    "ko": "형",
+    "rom": "hyeong",
+    "uz": "Aka (erkak aytadi)",
+    "ex": {
+     "ko": "형은 학생입니다.",
+     "rom": "hyeongeun haksaengimnida",
+     "uz": "Akam talaba."
+    }
+   },
+   {
+    "ko": "오빠",
+    "rom": "oppa",
+    "uz": "Aka (ayol aytadi)",
+    "ex": {
+     "ko": "오빠가 있어요.",
+     "rom": "oppaga isseoyo",
+     "uz": "Akam bor."
+    }
+   },
+   {
+    "ko": "누나",
+    "rom": "nuna",
+    "uz": "Opa (erkak aytadi)",
+    "ex": {
+     "ko": "누나는 예뻐요.",
+     "rom": "nunaneun yeppeoyo",
+     "uz": "Opam chiroyli."
+    }
+   },
+   {
+    "ko": "언니",
+    "rom": "eonni",
+    "uz": "Opa (ayol aytadi)",
+    "ex": {
+     "ko": "언니는 회사원이에요.",
+     "rom": "eonnineun hoesawonieyo",
+     "uz": "Opam xodim."
+    }
+   },
+   {
+    "ko": "동생",
+    "rom": "dongsaeng",
+    "uz": "Uka / singil",
+    "ex": {
+     "ko": "동생이 두 명 있어요.",
+     "rom": "dongsaengi du myeong isseoyo",
+     "uz": "Ikki ukam bor."
+    }
+   },
+   {
+    "ko": "할아버지",
+    "rom": "harabeoji",
+    "uz": "Bobo (ota tomon va umuman)",
+    "ex": {
+     "ko": "할아버지는 건강해요.",
+     "rom": "harabeojineun geonganghaeyo",
+     "uz": "Bobom sog'lom."
+    }
+   },
+   {
+    "ko": "할머니",
+    "rom": "halmeoni",
+    "uz": "Buvi",
+    "ex": {
+     "ko": "할머니 댁",
+     "rom": "halmeoni daek",
+     "uz": "buvimning uyi"
+    }
+   },
+   {
+    "ko": "아들",
+    "rom": "adeul",
+    "uz": "O'g'il",
+    "ex": {
+     "ko": "아들이 한 명 있어요.",
+     "rom": "adeuri han myeong isseoyo",
+     "uz": "Bitta o'g'lim bor."
+    }
+   },
+   {
+    "ko": "딸",
+    "rom": "ttal",
+    "uz": "Qiz (farzand)",
+    "ex": {
+     "ko": "딸은 다섯 살이에요.",
+     "rom": "ttareun daseot sarieyo",
+     "uz": "Qizim 5 yoshda."
+    }
+   },
+   {
+    "ko": "남편",
+    "rom": "nampyeon",
+    "uz": "Er",
+    "ex": {
+     "ko": "남편은 회사에 가요.",
+     "rom": "nampyeoneun hoesae gayo",
+     "uz": "Erim ishga ketdi."
+    }
+   },
+   {
+    "ko": "아내",
+    "rom": "anae",
+    "uz": "Xotin",
+    "ex": {
+     "ko": "아내는 요리를 잘해요.",
+     "rom": "anaeneun yorireul jalhaeyo",
+     "uz": "Xotinim yaxshi ovqat pishiradi."
+    }
+   },
+   {
+    "ko": "친구",
+    "rom": "chingu",
+    "uz": "Do'st",
+    "ex": {
+     "ko": "친구를 만나요.",
+     "rom": "chingureul mannayo",
+     "uz": "Do'stim bilan uchrashaman."
+    }
+   }
+  ]
+ },
+ "food": {
+  "title": "Ovqat va restoran",
+  "sub": "음식과 식당",
+  "items": [
+   {
+    "ko": "밥",
+    "rom": "bap",
+    "uz": "Guruch / ovqat",
+    "ex": {
+     "ko": "밥을 먹어요.",
+     "rom": "bapeul meogeoyo",
+     "uz": "Ovqat yeyman."
+    }
+   },
+   {
+    "ko": "물",
+    "rom": "mul",
+    "uz": "Suv",
+    "ex": {
+     "ko": "물 주세요.",
+     "rom": "mul juseyo",
+     "uz": "Suv bering."
+    }
+   },
+   {
+    "ko": "김치",
+    "rom": "gimchi",
+    "uz": "Kimchi",
+    "ex": {
+     "ko": "김치가 매워요.",
+     "rom": "gimchiga maewoyo",
+     "uz": "Kimchi achchiq."
+    }
+   },
+   {
+    "ko": "불고기",
+    "rom": "bulgogi",
+    "uz": "Bulgogi (qovurilgan go'sht)",
+    "ex": {
+     "ko": "불고기를 좋아해요.",
+     "rom": "bulgogireul joahaeyo",
+     "uz": "Bulgogini yaxshi ko'raman."
+    }
+   },
+   {
+    "ko": "비빔밥",
+    "rom": "bibimbap",
+    "uz": "Bibimbap",
+    "ex": {
+     "ko": "비빔밥 하나 주세요.",
+     "rom": "bibimbap hana juseyo",
+     "uz": "Bitta bibimbap bering."
+    }
+   },
+   {
+    "ko": "라면",
+    "rom": "ramyeon",
+    "uz": "Lagmon (ramyon)",
+    "ex": {
+     "ko": "라면을 끓여요.",
+     "rom": "ramyeoneul kkeuryeoyo",
+     "uz": "Ramyon qaynataman."
+    }
+   },
+   {
+    "ko": "빵",
+    "rom": "ppang",
+    "uz": "Non (bulka)",
+    "ex": {
+     "ko": "빵이 맛있어요.",
+     "rom": "ppangi masisseoyo",
+     "uz": "Non mazali."
+    }
+   },
+   {
+    "ko": "우유",
+    "rom": "uyu",
+    "uz": "Sut",
+    "ex": {
+     "ko": "우유를 마셔요.",
+     "rom": "uyureul masyeoyo",
+     "uz": "Sut ichaman."
+    }
+   },
+   {
+    "ko": "커피",
+    "rom": "keopi",
+    "uz": "Qahva",
+    "ex": {
+     "ko": "커피 한 잔 주세요.",
+     "rom": "keopi han jan juseyo",
+     "uz": "Bir piyola qahva bering."
+    }
+   },
+   {
+    "ko": "과일",
+    "rom": "gwail",
+    "uz": "Meva",
+    "ex": {
+     "ko": "과일을 사요.",
+     "rom": "gwaireul sayo",
+     "uz": "Meva sotib olaman."
+    }
+   },
+   {
+    "ko": "고기",
+    "rom": "gogi",
+    "uz": "Go'sht",
+    "ex": {
+     "ko": "고기를 구워요.",
+     "rom": "gogireul gwowoyo",
+     "uz": "Go'sht kabob qilaman."
+    }
+   },
+   {
+    "ko": "맛있어요",
+    "rom": "masisseoyo",
+    "uz": "Mazali",
+    "ex": {
+     "ko": "정말 맛있어요!",
+     "rom": "jeongmal masisseoyo",
+     "uz": "Juda mazali!"
+    }
+   },
+   {
+    "ko": "매워요",
+    "rom": "maewoyo",
+    "uz": "Achchiq",
+    "ex": {
+     "ko": "너무 매워요.",
+     "rom": "neomu maewoyo",
+     "uz": "Juda achchiq."
+    }
+   },
+   {
+    "ko": "주세요",
+    "rom": "juseyo",
+    "uz": "Bering (iltimos)",
+    "ex": {
+     "ko": "메뉴판 주세요.",
+     "rom": "menyupan juseyo",
+     "uz": "Menyuni bering."
+    }
+   },
+   {
+    "ko": "얼마예요?",
+    "rom": "eolmayeyo",
+    "uz": "Qancha turadi?",
+    "ex": {
+     "ko": "이거 얼마예요?",
+     "rom": "igeo eolmayeyo",
+     "uz": "Bu qancha turadi?"
+    }
+   }
+  ]
+ }
+}
